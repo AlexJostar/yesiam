@@ -2,6 +2,6 @@
 #include <iostream>
 int main()
 {
-    std::cout << "Poka World!\n";
+    std::cout << "Hello World!\n";
 }
 
